@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'nse_data',         # How you named your package folder (MyLib)
-  packages = ['nse_data'],   # Chose the same as "name"
+  name = 'nsedata',         # How you named your package folder (MyLib)
+  packages = ['nsedata'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Library for getting NSE data',   # Give a short description about your library
   author = 'Harsh Sharma',                   # Type in your name
   author_email = 'goharsh007@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/Codelif/nse-data',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Codelif/nse-data/archive/v_01.tar.gz',    # I explain this later on
+  url = 'https://github.com/Codelif/nsedata',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/Codelif/nsedata/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['nse', 'scraping', 'trading', "data"],   # Keywords that define your package best
   install_requires=[
           'beautifulsoup4',

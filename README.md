@@ -1,4 +1,4 @@
-# nse_data
+# nsedata
 Library for getting NSE data super easy.
 # Overview
 You can get many types of NSE data using the library:
@@ -18,7 +18,7 @@ $ pip install nse-data
 ### Using it
 You can use nse-data in you project by importing it like this
 ```Python
-from nse-data import Nse
+from nsedata import Nse
 
 nse = Nse()
 ```
