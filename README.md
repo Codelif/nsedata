@@ -23,7 +23,7 @@ from nsedata import Nse
 nse = Nse()
 ```
 
-This imports the ```Nse``` class which has all the functions into your project.
+This imports the ```Nse``` class which has all the methods into your project.
 
 ### Nse.all_codes()
 This function will get all the available stock codes for NSE.
