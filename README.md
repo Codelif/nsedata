@@ -8,7 +8,7 @@ You can get many types of NSE data using the library:
  - Get Live Stock Price. 
 ## Usage
 
-In the following paragraphs, I am going to describe how you can get and use Scrapeasy for your own projects.
+In the following paragraphs, I am going to describe how you can get and use nse-data for your own projects.
 
 ###  Getting it
 To download nse-data, either fork this github repo or simply use Pypi via pip.
